@@ -2,8 +2,8 @@
 
 Welcome to my submission for the **Spring Game Jam 2025**! This game was created in just a few days by a passionate developer looking to hone and challenge her skills in front end and back end development.
 
-![Game Banner](./screenshots/banner.png) <!-- Replace with actual image path --><img width="765" height="429" alt="HomePage" src="https://github.com/user-attachments/assets/a22a016f-d43a-4e44-8f6b-6f0e94d58246" />
-
+![Game Banner] 
+<img width="765" height="429" alt="HomePage" src="https://github.com/user-attachments/assets/a22a016f-d43a-4e44-8f6b-6f0e94d58246" />
 
 ## 🎮 Game Description
 
