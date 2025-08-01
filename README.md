@@ -27,7 +27,7 @@ To run the game locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/spring-game-jam-2025.git
+   git clone https://github.com/madelineluna/spring-game-jam-2025.git
    
 2. Open the project in Unity (Unity version: 2022.3.47f1)
 
